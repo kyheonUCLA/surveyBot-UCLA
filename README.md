@@ -1,6 +1,6 @@
 # Getting Started (Linux/Mac)
 
-Not that as written currently, this script will only work with with chrome browser version 96. You can
+Currently, this script will only work with with chrome browser version 96. You can
 check the version of chrome you use by navigating to chrome://settings/help in the browser. Make sure that
 the version number is 96.X.XXXX.XX. If the version  number for you does not match, you can simply download 
 the correct chromedriver from https://chromedriver.chromium.org/downloads and replace it with the chromedriver
